@@ -1,0 +1,114 @@
+/* Nền màu xanh Navy bao phủ toàn width */
+.linguistic-wrapper {
+  position: relative;
+  background-color: #1b3260;
+  padding: 60px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.linguistic-content {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.text-col {
+  flex: 1.2;
+  color: #ffffff;
+}
+
+.section-title {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  margin: 0 0 16px 0;
+  color: #ffffff;
+}
+
+.tag-box {
+  display: inline-block;
+  background: linear-gradient(90deg, #8b288f 0%, #b3288f 100%);
+  color: #ffffff;
+  padding: 6px 16px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.desc-text {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #e2e8f0;
+  margin: 0 0 24px 0;
+}
+
+.more-btn {
+  background: linear-gradient(90deg, #8b288f 0%, #b3288f 100%);
+  color: #ffffff;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.more-btn:hover {
+  opacity: 0.9;
+}
+
+/* --- KHỐI KHUNG ẢNH BO GÓC --- */
+.img-card {
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}
+
+.main-img {
+  flex: 1.4;
+  height: 320px;
+}
+
+.sub-img {
+  width: 180px;
+  height: 320px;
+  flex-shrink: 0;
+}
+
+.img-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* --- MŨI TÊN ĐIỀU HƯỚNG --- */
+.arrow-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 32px;
+  cursor: pointer;
+  padding: 10px;
+  z-index: 5;
+}
+
+.left-arrow {
+  left: 20px;
+}
+
+.right-arrow {
+  right: 20px;
+}

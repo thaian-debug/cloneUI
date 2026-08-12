@@ -1,0 +1,24 @@
+.btn-img {
+  display: flex;
+  margin-top: 80px;
+  margin-left: 450px;
+}
+.btn-img img {
+  width: 500px;
+  border-radius: 20px;
+}
+.btn-img button {
+  margin-right: 20px;
+  border-radius: 20px;
+  background-color: #21438c;
+  color: aliceblue;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.btn-img button span {
+  text-align: center;
+}
+.btn-img button p {
+  font-size: 20px;
+  text-transform: uppercase;
+}

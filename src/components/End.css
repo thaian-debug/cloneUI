@@ -1,0 +1,36 @@
+.pl {
+  display: flex;
+  background-color: #233e78;
+  color: aliceblue;
+  margin-top: -100px;
+}
+.p3 {
+  display: block;
+  width: 400px;
+  margin-right: 20px;
+}
+.p2 {
+  display: block;
+}
+.p1 {
+  margin-left: 80px;
+}
+
+.p3 input {
+  width: 300px;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #233e78;
+  color: aliceblue;
+  border: 1px solid aliceblue;
+}
+.p3 button {
+  padding: 10px;
+  width: 325px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #233e78;
+}
+.p2 a {
+}

@@ -1,0 +1,60 @@
+.ip1 {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+.ip1 input {
+  padding: 10px;
+  width: 400px;
+  border-radius: 10px;
+  border: 1px solid #233e78;
+}
+.ip2 {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.ip2 input {
+  padding: 10px;
+  width: 400px;
+  border-radius: 10px;
+  border: 1px solid #233e78;
+}
+.ch2 {
+}
+.ch2 input {
+  margin-left: 40px;
+}
+.ch3 .lon {
+  width: 635px;
+  padding: 40px;
+  margin-top: 20px;
+  border: 1px solid #233e78;
+}
+.nho {
+  margin-top: 20px;
+  padding: 10px;
+  width: 700px;
+  border-radius: 10px;
+  border: 1px solid #233e78;
+}
+.ch1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f7f8fc;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.ch1 form {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 800px;
+  box-sizing: border-box;
+  margin-top: -300px;
+}

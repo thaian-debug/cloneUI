@@ -1,0 +1,37 @@
+.chinh {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: #233e78;
+}
+.chinh2 {
+  background-color: #233e78;
+  color: aliceblue;
+  border-radius: 12px;
+  padding: 30px;
+}
+.chinh2 h1 {
+  text-align: left;
+  font-size: 100px;
+  margin-left: 30px;
+  margin-top: 0px;
+  color: aliceblue;
+}
+.chinh2 h2 {
+  margin-top: -40px;
+  margin-left: 30px;
+}
+.chinh2 button {
+  margin-left: 200px;
+  padding: 5px 20px;
+  border-radius: 20px;
+  color: aliceblue;
+  background: linear-gradient(135deg, #7b2d8e 0%, #ab1d85 100%);
+  border: none;
+}

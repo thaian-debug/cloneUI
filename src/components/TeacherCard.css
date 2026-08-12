@@ -1,0 +1,21 @@
+.tc-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px 20px;
+  background-color: #f8fafc;
+}
+
+.tc {
+  width: 280px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+}
+
+.tc img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

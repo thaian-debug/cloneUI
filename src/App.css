@@ -1,0 +1,54 @@
+.anh img {
+  width: 60%;
+  margin-left: 400px;
+  margin-top: 40px;
+}
+.btn {
+  margin-left: 800px;
+}
+.btn button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background: linear-gradient(90deg, #508ec3 0%, #38367d 100%);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+a {
+  text-decoration-line: none;
+  color: aliceblue;
+}
+.dng {
+  text-align: center;
+  margin-top: 70px;
+}
+.dng h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #1e3a8a;
+  letter-spacing: 0.5px;
+}
+.dng p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: #1e3a8a;
+  margin-top: 12px;
+}
+.lt {
+  display: flex;
+  background-color: #233e78;
+  height: 500px;
+  width: 100%;
+}
+.pa {
+  display: flex;
+}
+footer {
+  text-align: center;
+  background-color: #233e78;
+  color: aliceblue;
+  padding-bottom: 20px;
+  border-top: 1px solid aliceblue;
+  padding-top: 20px;
+}
