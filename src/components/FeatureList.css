@@ -19,3 +19,6 @@
 .feature-desc {
   margin-top: -14px;
 }
+.feature-item:last-child {
+  border-bottom: none;
+}

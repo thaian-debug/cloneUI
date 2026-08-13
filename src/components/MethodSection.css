@@ -35,3 +35,14 @@
   display: flex;
   margin-bottom: 30px;
 }
+.d2 {
+  position: absolute;
+  left: 950px;
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 20px;
+}
+.d3 {
+  position: relative;
+  margin-left: 10px;
+}

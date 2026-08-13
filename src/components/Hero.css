@@ -2,6 +2,7 @@
   width: 1160px;
   height: 400px;
   padding: 50px 0 0 380px;
+  margin-top: 50px;
 }
 .pt1 {
   display: flex;
@@ -35,4 +36,6 @@
 }
 .phanthan {
   background-image: url("../assets/background.png");
+  height: 950px;
+  margin-top: -90px;
 }

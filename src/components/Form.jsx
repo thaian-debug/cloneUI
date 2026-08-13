@@ -18,7 +18,7 @@ export default function Form() {
 
           <div className="ch2">
             <p>Mục tiêu tiếng anh của bạn là gì ?</p>
-            <div style={{ display: "flex" }}>
+            <div style={{ display: "flex", marginLeft: "-40px" }}>
               <div>
                 <input type="radio" name="" id="" />
                 <span> Xét tuyển đại học</span>
@@ -59,6 +59,7 @@ export default function Form() {
                 color: "aliceblue",
                 fontSize: "20px",
                 textTransform: "uppercase",
+                borderRadius: "12px",
               }}
             >
               Hoàn tất đăng ký
