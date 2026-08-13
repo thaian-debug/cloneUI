@@ -66,13 +66,13 @@ function App() {
       <MethodSection />
       <LinguisticSection />
       <div className="anh2">
-        <img src={pic10} alt="" />
+        <img style={{ width: "100%" }} src={pic10} alt="" />
       </div>
       <div>
-        <img src={pic11} alt="" />
+        <img style={{ width: "100%" }} src={pic11} alt="" />
       </div>
       <div>
-        <img src={pic12} alt="" />
+        <img style={{ width: "100%" }} src={pic12} alt="" />
       </div>
       <TipsSection />
       <TinTuc></TinTuc>
