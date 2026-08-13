@@ -43,8 +43,8 @@ export default function MethodSection() {
               <div className="p3">
                 <div className="d2">{item.icon}</div>
                 <div className="d3">
-                  <div>{item.title}</div>
-                  <div>{item.desc}</div>
+                  <div className="d31">{item.title}</div>
+                  <div className="d32">{item.desc}</div>
                 </div>
               </div>
             </div>

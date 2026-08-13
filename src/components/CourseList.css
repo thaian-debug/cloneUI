@@ -4,7 +4,7 @@
   max-width: 500px;
   margin-top: 40px;
   justify-content: center;
-  margin-left: 600px;
+  margin-left: 650px;
   font-size: 20px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   border-radius: 15px;
@@ -57,7 +57,7 @@ ul li {
 }
 .pc2-cl {
   max-width: 500px;
-  margin-left: 600px;
+  margin-left: 650px;
   margin-top: 50px;
   border-left: 4px solid green;
   padding-left: 20px;
@@ -73,7 +73,7 @@ ul li {
 }
 .pc3-cl {
   display: flex;
-  margin-left: 600px;
+  margin-left: 650px;
   margin-top: 50px;
 }
 .pc3-cl h3 {
@@ -84,15 +84,18 @@ ul li {
   font-size: 25px;
   margin-top: 10px;
   margin-bottom: -15px;
-  margin-left: 25px;
+  margin-left: 50px;
   color: brown;
 }
 .pc3-cl p {
-  margin-left: -10px;
+  margin-left: 10px;
   color: #555;
 }
 .pc4-cl .t {
   display: flex;
+}
+.pc4-cl {
+  margin-left: 50px;
 }
 .t1 {
   background-color: #d9dfa4;
